@@ -19,7 +19,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "lint-staged": {
-    "*.js": ["eslint --fix", "git add"]
-  }
+  "lint-staged": {}
 }
