@@ -20,6 +20,6 @@
     "eject": "react-scripts eject"
   },
   "lint-staged": {
-     "*.js": ["eslint --fix", "git add"]
+     "src/*.js": ["eslint --fix", "git add"]
   }
 }
