@@ -13,7 +13,7 @@
     "react-scripts": "1.0.10"
   },
   "scripts": {
-    "precommit": "lint-staged",
+    "pre-commit": "lint-staged",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
