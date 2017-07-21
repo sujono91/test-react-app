@@ -3,10 +3,6 @@ import logo from './logo.svg'
 import './App.css'
 
 class App extends Component {
-  cek() {
-    console.log('test');
-  }
-
   render() {
     return (
       <div className="App">
